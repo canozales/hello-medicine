@@ -34,4 +34,4 @@ Salah satu caranya adalah sebagai berikut.
 2. Buka cmd, ketik ipconfig dan cari IPv4 Address pada Local Area Network
 3. Buka project flutter, pergi ke lib/network/api/url_api.dart kemudian ganti ipAddress dengan ipAddress Anda pada Point No. 2
 
-HelloMedicine+ sudah dapat dijalankan. Selamat belajar. 
+HelloMedicine+ sudah dapat dijalankan
